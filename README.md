@@ -7,5 +7,5 @@ My collection of webcomics.
 ## Notes to self:
 
 When adding new comics:
-- change _redirect
+- change _redirects
 - change _includes/navigation.html
