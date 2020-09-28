@@ -1,0 +1,41 @@
+body {
+  background-color: #ecf4f3;
+  font-family: 'Caveat', cursive;
+  font-size: 200%;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Nanum Brush Script', cursive;
+  font-size: 250%;
+  margin: 0 !important;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  margin: 0 !important;
+}
+
+img {
+  max-width: 320px;
+  max-height: 480px;
+}
+
+p {
+  margin: 0 !important;
+}
+
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.comic-div {
+  text-align: center;
+}

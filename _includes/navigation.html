@@ -1,0 +1,22 @@
+{% assign first_comic = site.comics | where: "comic_id", 1 | first %}
+{% assign num_comics = 3 %}
+
+<div style="display: flex; justify-content: space-evenly;">
+  <a href="{{ first_comic.url }}"><i class="fas fa-angle-double-left"></i></a>
+  {% if include.comic_id == 1 %}
+  <a href="#"><i class="fas fa-angle-left"></i></a>
+  {% else %}
+  {% assign prev_comic_id = include.comic_id | minus: 1 %}
+  {% assign prev_comic = site.comics | where: "comic_id", prev_comic_id | first %}
+  <a href="{{ prev_comic.url }}"><i class="fas fa-angle-left"></i></a>
+  {% endif %}
+  {% if include.comic_id == num_comics %}
+  <a href="#"><i class="fas fa-angle-right"></i></a>
+  {% else %}
+  {% assign next_comic_id = include.comic_id | plus: 1 %}
+  {% assign next_comic = site.comics | where: "comic_id", next_comic_id | first %}
+  <a href="{{ next_comic.url }}"><i class="fas fa-angle-right"></i></a>
+  {% endif %}
+  {% assign most_recent_comic = site.comics | where: "comic_id", num_comics | first %}
+  <a href="{{ most_recent_comic.url }}"><i class="fas fa-angle-double-right"></i></a>
+</div>

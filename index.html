@@ -1,0 +1,11 @@
+---
+layout: index
+title: Random Tidbits
+---
+<h1>Comics</h1>
+
+<ul>
+  {% for comic in site.comics %}
+    <li><a href="{{ comic.url }}">{{ comic.comic_title }}</a></li>
+  {% endfor %}
+</ul>
