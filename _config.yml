@@ -1,3 +1,5 @@
 collections:
   comics:
     output: true
+
+include: [_redirects]
