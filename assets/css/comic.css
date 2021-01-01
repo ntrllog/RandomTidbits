@@ -44,8 +44,9 @@ p {
 .comic-div {
   background-color: white;
   text-align: center;
-  width: 480px;
+  width: 520px;
   margin: auto;
+  padding: 0 10px;
 }
 
 .footer {
