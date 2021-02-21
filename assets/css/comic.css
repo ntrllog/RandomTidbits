@@ -27,8 +27,7 @@ h2 {
 }
 
 img {
-  max-width: 480px;
-  max-height: 480px;
+  max-height: 240px;
 }
 
 p {
@@ -44,7 +43,7 @@ p {
 .comic-div {
   background-color: white;
   text-align: center;
-  width: 520px;
+  width: 1000px;
   margin: auto;
   padding: 0 10px;
 }
@@ -56,4 +55,8 @@ p {
   justify-content: space-evenly;
   align-items: center;
   margin: 20px 0;
+}
+
+#img43, #img52 {
+  max-height: 480px;
 }
