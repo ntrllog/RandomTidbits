@@ -1,8 +1,8 @@
 1\Hi, My Name Is\chka-chka, Slim Shady.
-2\Adjectives\Oh sure. You don't understand that, but you understand big bad wolf?!
+2\Adjectives\Oh sure. You don't understand that, but you understand "big bad wolf?!"
 3\Semantic Satiation\Now we know the boy actually cried, "wolf! wolf! wolf! wolf! wolf! wolf! wolf! wolf! wolf!"
 4\Litotes\It's the little things that make paronomasia so good. I scoff at those who call it the lowest form of comedy.
-5\IDK\I also claim that the identity in k is equal to 'idk'. Since k is commutative, I 'kid' you not.
+5\IDK\I also claim that the identity in k is equal to "idk". Since k is commutative, I "kid" you not.
 6\Method of Proof\My other favorite proof technique is claiming that things are trivial.
 7\Programming Paradigms\I've tried them all: Java, Python,... . They're also non-functional.
 8\Inspirational Quotes\I like to imagine that Confucius was a little tipsy when he said, "Our greatest glory is not in never falling, but in rising every time we fall."
@@ -32,7 +32,7 @@
 32\How Snapchat Works\Apparently, the Android app takes a screenshot of the camera feed instead of using the actual camera hardware.
 33\Math Confidence\Being comfortable with a problem will get you halfway there to solving the problem. Unfortunately, I didn't hear the word "halfway" the first time.
 34\Phone-DoS\The legal way to DDoS if handling phone calls was asynchronous.
-35\Significant Other\We all know there's 'one' joke that's coming to our minds. He was about to say, "But I'm not stressed." by the way.
+35\Significant Other\We all know there's "one" joke that's coming to our minds. He was about to say, "But I'm not stressed." by the way.
 36\How Torrenting Works\You get a completed homework file by asking people for answers. If you're allowed to ask for answers, then it's legal. If not, then it's illegal. If it's illegal and you ask the teacher for an answer, then you get a copyright violation notice. Here's the thing: it's practically impossible to know if the person you're asking is the teacher. The people asking for #8 and #10 are so screwed.
 37\WTS\I also don't signal when I'm about to make a turn or change lanes. I know where I'm going.
 38\Operator Precedence\Some people might be surprised when they get just salad instead of rice with salad.
@@ -42,14 +42,14 @@
 42\Contained Oxymorons\and all words prefixed by "a", "de", "dis", "il", "im", "in", "ir", "mis", "non", "un".
 43\That's an x\Circular reasoning, infinite loops, and recursion were inspired by bad handwriting.
 44\Rate of Selling\Maggie made $0 that day.
-45\Regression to You're Mean\I'll take "Bad Responses to Someone Failing a Test" for $400.
+45\Regression to You're Mean\I'll take "Bad Responses to Someone Failing a Test" for $600.
 46\Lay\Poor guy just wanted to write a linear algebra textbook before he got caught in this mess.
 47\Genius\I can't tell if this is "in, on, or not" genius. Or just dumb.
 48\Newton's Method\The surface of the earth is concave down and his line of sight has a nonzero slope, but I feel like he's still gonna miss. What am I 'missing' here?
 49\Variable-Message Signs\It's a lot more foreboding to think that the message on variable-message signs are written by psychics. "Click it or ticket." "Report drunk drivers."
 50\Thoughts\It's the thought that counts.
 51\Compound Adjectives\This is why you hyphenate compound adjectives in front of the noun they're modifying - wait, open compounds? Now how am I supposed to know if you're talking about a high school teacher or a high school teacher?
-52\Public Access\Package: PeopleInTheArea<br>Classes: Workers, Customers<br>It's a 'protected' restroom! If the restroom was inside the building and not accessible to customers, then it would be 'private'.
+52\Public Access\Package: PeopleInTheArea<br>Classes: Workers, Customers<br>It's a "protected" restroom! If the restroom was inside the building and not accessible to customers, then it would be "private".
 53\Learning Recursion\See? This is how recursion works. If you have programming experience, then this would be easy to see.
 54\Rhetorical Devices\I find chiasmus a bit overrated and overused. I'm also having a hard time coming up with one for yo mama.
 55\Quasi Pseudo\Two guys walk into a bar and tell a bad joke.
