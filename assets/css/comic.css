@@ -1,7 +1,7 @@
 body {
   background-color: #222831;
   color: #222831;
-  font-family: 'Caveat', cursive;
+  font-family: 'Architects Daughter', cursive;
   font-size: 200%;
   font-weight: 600;
   margin: 0;
@@ -22,16 +22,17 @@ a {
 
 h2 {
   font-family: 'Permanent Marker', cursive;
-  font-size: 90%;
+  font-size: 100%;
   margin: 0 !important;
 }
 
 img {
-  max-height: 240px;
+  max-height: 480px;
 }
 
 p {
   margin: 0 !important;
+  font-size: 90%;
 }
 
 .header {
@@ -45,18 +46,14 @@ p {
   text-align: center;
   width: 1000px;
   margin: auto;
-  padding: 0 10px;
+  padding: 0 10px 10px 10px;
 }
 
 .footer {
+  color: #00adb5;
   font-size: 50%;
-  color: lightgray;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   margin: 20px 0;
-}
-
-#img43, #img52 {
-  max-height: 480px;
 }

@@ -3,3 +3,5 @@ collections:
     output: true
 
 include: [_redirects]
+
+exclude: [Krita Comics, comics.txt, update.py, generate_md.py]
