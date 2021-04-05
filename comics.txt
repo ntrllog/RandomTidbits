@@ -17,44 +17,43 @@
 17\Lemongame Theory\It's the exact same lemonade. My brother just claimed to be following FDA food labeling requirements.
 18\Semantics\When you're in a high-pressure situation, either say the second statement or make sure you're not dealing with a logician.
 19\Fallacy of Equivocation\In my defense, he wanted an example of a fallacy of equivocation. It's probably not right -- no, it's definitely not right to say that.
-20\Math Practice\I've called once and left a message. I'm not calling again; I'm not needy and desperate. Incidentally, I'm also not doing very well in math.
-21\The Peter Principle\This was originally a learning vs. GPA graph.
-22\The Way I Speak\I sure do! I am what I eat and I eat what I -- oh no.
-23\Birthplace\Wait, where I'm standing or where you're standing?
-24\Unique\Otherwise, it wouldn't be unique to me anymore.
-25\Magic of Proof\Just another day in my intro to proofs class.
-26\Show Don't Tell\On second thought, I prefer you just telling me. I've also never liked show and tell.
-27\Discussion\You can't fool me by calling it "discussion". I've gotta let the TA know I'm nice somehow.
-28\Compilation Errors\Altruistic reason: They wanted to scare us into not making errors in our code.<br>Sadistic reason: Same, but they wanted us to make more runtime and logic errors.
-29\PEMDAS\It would've taken 720 tries to stumble upon the right name if it weren't for someone's dear Aunt Sally.
-30\Statistics Conclusions\According to a peer-reviewed study, low original risk, correlation-implies-causation evidence, and a high margin of error play a big part in our study. That's where the 5% went.
-31\Lazy\Old-school writers are asking computer programmers to write a program to look for their Oxford commas. Turns out the mathematicians have been taking them.
-32\How Snapchat Works\Apparently, the Android app takes a screenshot of the camera feed instead of using the actual camera hardware.
-33\Phone-DoS\The legal way to DDoS if handling phone calls was asynchronous.
-34\Significant Other\We all know there's "one" joke that's coming to our minds. He was about to say, "But I'm not stressed." by the way.
-35\How Torrenting Works\You get a completed homework file by asking people for answers. If you're allowed to ask for answers, then it's legal. If not, then it's illegal. If it's illegal and you ask the teacher for an answer, then you get a copyright violation notice. Here's the thing: it's practically impossible to know if the person you're asking is the teacher. The people asking for #8 and #10 are so screwed.
-36\WTS\I also don't signal when I'm about to make a turn or change lanes. I know where I'm going.
-37\Operator Precedence\Some people might be surprised when they get just salad instead of rice with salad.
-38\Tautologies\It's considered a tautology if you say it in a different language right? True dat. I mean, "true dis".
-39\Subject-Verb Agreement\I feel like whoever came up with the rules of subject-verb agreement just wanted to prevent dumb conversations like this.
-40\Induction\If it works for n, it will work for n+1.
-41\Contained Oxymorons\and all words prefixed by "a", "de", "dis", "il", "im", "in", "ir", "mis", "non", "un".
-42\That's an x\Circular reasoning, infinite loops, and recursion were inspired by bad handwriting.
-43\Rate of Selling\Maggie made $0 that day.
-44\Regression to You're Mean\I'll take "Bad Responses to Someone Failing a Test" for $600.
-45\Lay\Poor guy just wanted to write a linear algebra textbook before he got caught in this mess.
-46\Genius\I can't tell if this is "in, on, or not" genius. Or just dumb.
-47\Newton's Method\The surface of the earth is concave down and his line of sight has a nonzero slope, but I feel like he's still gonna miss. What am I "missing" here?
-48\Variable-Message Signs\It's a lot more foreboding to think that the message on variable-message signs are written by psychics. "Click it or ticket." "Report drunk drivers."
-49\Thoughts\It's the thought that counts.
-50\Compound Adjectives\This is why you hyphenate compound adjectives in front of the noun they're modifying - wait, open compounds? Now how am I supposed to know if you're talking about a high school teacher or a high school teacher?
-51\Public Access\Package: PeopleInTheArea<br>Classes: Workers, Customers<br>It's a "protected" restroom! If the restroom was inside the building and not accessible to customers, then it would be "private".
-52\Rhetorical Devices\I find chiasmus a bit overrated and overused. I'm also having a hard time coming up with one for yo mama.
-53\Quasi Pseudo\Two guys walk into a bar and tell a bad joke.
-54\Butterfly Effect\For a news station in Brazil, we sure had a lot of information about Texas.
-55\Manifolds\No, your child isn't dumb. He's just a precocious topologist.
-56\Christmas Song Dedication\&#9834; Last Christmas, I gave you my heart... &#9834;
-57\Brand Advertising\I prefer to see this as an admission that they're not the leading brand.
-58\Wheel of Fortune\I think he got what he asked for.
-59\The Halting Trolley Problem\Yeah, the name sounds perfect for it. But applying the halting problem to the trolley problem doesn't completely solve it. It might even create a worse moral dilemma.
-60\Negation Gone Wrong\You are so cucking wrong.
+20\The Peter Principle\This was originally a learning vs. GPA graph.
+21\Antimetabolism\I sure do! I am what I eat and I eat what I -- oh no.
+22\Birthplace\Wait, where I'm standing or where you're standing?
+23\Unique\Otherwise, it wouldn't be unique to me anymore.
+24\Magic of Proof\Just another day in my intro to proofs class.
+25\Show Don't Tell\On second thought, I prefer you just telling me. I've also never liked show and tell.
+26\Discussion\You can't fool me by calling it "discussion". I've gotta let the TA know I'm nice somehow.
+27\Compilation Errors\Altruistic reason: They wanted to scare us into not making errors in our code.<br>Sadistic reason: Same, but they wanted us to make more runtime and logic errors.
+28\PEMDAS\It would've taken 720 tries to stumble upon the right name if it weren't for someone's dear Aunt Sally.
+29\Statistics Conclusions\According to a peer-reviewed study, low original risk, correlation-implies-causation evidence, and a high margin of error play a big part in our study. That's where the 5% went.
+30\Lazy\Old-school writers are asking computer programmers to write a program to look for their Oxford commas. Turns out the mathematicians have been taking them.
+31\How Snapchat Works\Apparently, the Android app takes a screenshot of the camera feed instead of using the actual camera hardware.
+32\Phone-DoS\The legal way to DDoS if handling phone calls was asynchronous.
+33\Significant Other\We all know there's "one" joke that's coming to our minds. He was about to say, "But I'm not stressed." by the way.
+34\How Torrenting Works\You get a completed homework file by asking people for answers. If you're allowed to ask for answers, then it's legal. If not, then it's illegal. If it's illegal and you ask the teacher for an answer, then you get a copyright violation notice. Here's the thing: it's practically impossible to know if the person you're asking is the teacher. The people asking for #8 and #10 are so screwed.
+35\WTS\I also don't signal when I'm about to make a turn or change lanes. I know where I'm going.
+36\Operator Precedence\Some people might be surprised when they get just salad instead of rice with salad.
+37\Tautologies\It's considered a tautology if you say it in a different language right? True dat. I mean, "true dis".
+38\Subject-Verb Agreement\I feel like whoever came up with the rules of subject-verb agreement just wanted to prevent dumb conversations like this.
+39\Induction\If it works for n, it will work for n+1.
+40\Contained Oxymorons\and all words prefixed by "a", "de", "dis", "il", "im", "in", "ir", "mis", "non", "un".
+41\That's an x\Circular reasoning, infinite loops, and recursion were inspired by bad handwriting.
+42\Rate of Selling\Maggie made $0 that day.
+43\Regression to You're Mean\I'll take "Bad Responses to Someone Failing a Test" for $600.
+44\Lay\Poor guy just wanted to write a linear algebra textbook before he got caught in this mess.
+45\Genius\I can't tell if this is "in, on, or not" genius. Or just dumb.
+46\Newton's Method\The surface of the earth is concave down and his line of sight has a nonzero slope, but I feel like he's still gonna miss. What am I "missing" here?
+47\Variable-Message Signs\It's a lot more foreboding to think that the message on variable-message signs are written by psychics. "Click it or ticket." "Report drunk drivers."
+48\Thoughts\It's the thought that counts.
+49\Compound Adjectives\This is why you hyphenate compound adjectives in front of the noun they're modifying - wait, open compounds? Now how am I supposed to know if you're talking about a high school teacher or a high school teacher?
+50\Public Access\Package: PeopleInTheArea<br>Classes: Workers, Customers<br>It's a "protected" restroom! If the restroom was inside the building and not accessible to customers, then it would be "private".
+51\Rhetorical Devices\I find chiasmus a bit overrated and overused. I'm also having a hard time coming up with one for yo mama.
+52\Quasi Pseudo\Two guys walk into a bar and tell a bad joke.
+53\Butterfly Effect\For a news station in Brazil, we sure had a lot of information about Texas.
+54\Manifolds\No, your child isn't dumb. He's just a precocious topologist.
+55\Christmas Song Dedication\&#9834; Last Christmas, I gave you my heart... &#9834;
+56\Brand Advertising\I prefer to see this as an admission that they're not the leading brand.
+57\Wheel of Fortune\I think he got what he asked for.
+58\The Halting Trolley Problem\Yeah, the name sounds perfect for it. But applying the halting problem to the trolley problem doesn't completely solve it. It might even create a worse moral dilemma.
+59\Negation Gone Wrong\You are so cucking wrong.

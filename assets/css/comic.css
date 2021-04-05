@@ -28,6 +28,7 @@ h2 {
 
 img {
   max-height: 480px;
+  max-width: 480px;
 }
 
 p {
