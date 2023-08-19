@@ -5,3 +5,19 @@
 https://rtb.netlify.app/comics
 
 My collection of webcomics.
+
+## Krita Configuration
+
+* Usually 720x1080
+* 100 PPI
+* Text - 28 font size
+  * Spoken words, Thoughts: Segoe Print
+  * Printed words: Comic Sans
+  * Handwritten words: Bradley Hand ITC (bold)
+  * Digital words: OCR A Extended
+* Brush
+  * 3px
+
+## Jekyll
+
+`bundle exec jekyll serve`
