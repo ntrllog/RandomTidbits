@@ -4,4 +4,4 @@ collections:
 
 include: [_redirects]
 
-exclude: [Krita Comics, comics.txt, update.py, generate_md.py]
+exclude: [Krita Comics, comics.txt, update.py, generate_md.py, add_new_comic.py, rename.py, Gemfile, Gemfile.lock, README.md]
