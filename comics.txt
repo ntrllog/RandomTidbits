@@ -53,3 +53,4 @@
 53\The Halting Trolley Problem\Yeah, the name sounds perfect for it, but applying the halting problem to the trolley problem doesn't completely solve it. It might even create a worse moral dilemma.
 54\Negation Attempt\You are so cucking wrong.
 55\Dating App Code\Instead of fixing the bug, we decided to publish some stats about our user base instead.
+56\Race Condition\They say doing the same thing over and over again but expecting different results is insanity. Well, trying to reproduce this race condition is "driving" me insane.
