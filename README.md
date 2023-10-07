@@ -15,6 +15,7 @@ My collection of webcomics.
   * Printed words: Comic Sans
   * Handwritten words: Bradley Hand ITC (bold)
   * Digital words: OCR A Extended
+  * To add multiple spaces, switch from Rich Text to SVG Source and change x
 * Brush
   * 3px
 
