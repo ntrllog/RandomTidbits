@@ -54,3 +54,4 @@
 54|Negation Attempt|You are so cucking wrong.
 55|Dating App Code|Instead of fixing the bug, we decided to publish some stats about our user base instead.
 56|Race Condition|They say doing the same thing over and over again but expecting different results is insanity. Well, trying to reproduce this race condition is "driving" me insane.
+57|Math vs. Computer Science Part 2|Oh, yeah? You guys somehow have an irrational number raised to an imaginary number turning into an integer.|Euler's Identity
