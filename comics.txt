@@ -24,7 +24,7 @@
 24|Compilation Errors|Altruistic reason: They wanted to scare us into not making errors in our code.<br>Sadistic reason: Same, but they wanted us to make more runtime and logic errors.
 25|PEMDAS|719 tries later, someone's dear Aunt Sally arrived.
 26|Statistics Conclusions|According to a peer-reviewed study, low original risk, correlation-implies-causation evidence, and a high margin of error play a big part in our study. That's where the 5% went.
-27|Lazy|Old-school writers are asking computer programmers to write a program to look for their Oxford commas. Turns out the mathematicians have been taking them.
+27|Math vs. Computer Science|Old-school writers are asking computer programmers to write a program to look for their Oxford commas. Turns out the mathematicians have been taking them.
 28|How Snapchat Works|Apparently, the Android app takes a screenshot of the camera feed instead of using the actual camera hardware.
 29|Phone-DoS|The legal way to DDoS if handling phone calls was asynchronous.
 30|How Torrenting Works|You get a completed homework file by asking people for answers. If you're allowed to ask for answers, then it's legal. If not, then it's illegal. If it's illegal and you ask the teacher for an answer, then you get a copyright violation notice. Here's the thing: it's practically impossible to know if the person you're asking is the teacher. The people asking for #8 and #10 are so screwed.
