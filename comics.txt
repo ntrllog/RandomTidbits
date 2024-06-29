@@ -10,7 +10,7 @@
 10|Floating Point Arithmetic|It's even worse when the numbers are in a different language.
 11|Grammarly|This is a case of writing a compiler for a compiler. Huh, imagine if there was a math equivalent, like a function that checks if something is a function.
 12|Nothing|Yep, that's what he thought.
-13|SAT Prep Program|They've been running this commercial since 2012.
+13|SAT Prep Program|They've been running this commercial since 2012.|Max score changed from 2400 to 1600 in 2018
 14|Job Hunting|My resume has become a list of qualities that are either generic and open to interpretation, or soon to be developed. Fast learner? Not in my classes, but yeah, usually I am. Proactive? I will be by the time the interview comes.
 15|Lemongame Theory|It's the exact same lemonade. My brother just claimed to be following FDA food labeling requirements.
 16|Semantics|See? I told you the left statement is not an implication!
