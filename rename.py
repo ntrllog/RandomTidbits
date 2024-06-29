@@ -31,6 +31,8 @@ for path in ['assets/images', 'Krita Comics']:
 
     for file in image_files:
         parts = file.split('.')
+        if parts[1] == 'gif' or '_' in parts[0]:
+            continue
         file_number = int(parts[0])
         extension = parts[1]
         if file_number >= missing_number:
