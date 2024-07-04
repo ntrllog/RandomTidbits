@@ -24,30 +24,21 @@ h2 {
   font-family: 'Permanent Marker', cursive;
   font-size: 100%;
   margin: 0 !important;
+  color: white;
+}
+
+p {
+  color: white;
 }
 
 img {
   max-height: 480px;
-  max-width: 480px;
-}
-
-p {
-  margin: 0 !important;
-  font-size: 90%;
 }
 
 .header {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-}
-
-.comic-div {
-  background-color: white;
-  text-align: center;
-  width: 1000px;
-  margin: auto;
-  padding: 0 10px 10px 10px;
 }
 
 .footer {

@@ -12,4 +12,4 @@ with open('comics.txt') as csv_file:
                 extension = "gif"
             else:
                 extension = "png"
-            md_file.write('---\nlayout: comic\ntitle: Random Tidbits | {1}\ncomic_id: {0}\ncomic_title: {1}\n---\n\n## {1}\n\n<img id="img{0}" src="/assets/images/{0}.{3}">\n\n{2}\n'.format(row[0], row[1], row[2], extension).encode('utf-8'))
+            md_file.write('---\nlayout: comic\ntitle: Random Tidbits | {1}\ncomic_id: {0}\ncomic_title: {1}\n---\n\n## {1}\n\n<img id="img{0}" class="img-fluid" src="/assets/images/{0}.{3}">\n\n{2}\n'.format(row[0], row[1], row[2], extension).encode('utf-8'))
